@@ -60,3 +60,12 @@ Wow - if you want to see how I wrote all of this you can click on this file in G
     cd Testrepo         # change directory into Testrepo
     git status          # see status of current repo that is in current dir
 ```
+# Hey Oliver
+
+#### I am just making some changes to the readme
+
+```
+this stuff is so much fun
+See you soon,
+Gio
+```
